@@ -1,9 +1,9 @@
 # VegaMaciasDani2324-SMX2-M8UF1A3
 Repositorio sobre Hotmail
 
-#SMX2-M8UF1A1-HistoriaWeb-1995-1996-TemaExpuesto-VegaMaciasDani
+## SMX2-M8UF1A1-HistoriaWeb-1995-1996-TemaExpuesto-VegaMaciasDani
 
-##Hotmail
+### Hotmail
 
 Hotmail es uno de los primeros servicios de correo electrónico con base de una web, creado por Sabeer Bhatia y Jack Smith el día 4 de julio de 1996, Hotmail era muy especial en su época ya que contaba con diferentes características que eran positivas que son que el programa es totalmente gratuito, es de un fácil uso para los usuarios y que es fácilmente accesible.
 
