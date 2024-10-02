@@ -1,5 +1,4 @@
 # VegaMaciasDani2324-SMX2-M8UF1A3
-Repositorio sobre Hotmail
 
 ## SMX2-M8UF1A1-HistoriaWeb-1995-1996-TemaExpuesto-VegaMaciasDani
 
